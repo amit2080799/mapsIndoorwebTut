@@ -1,20 +1,15 @@
 {
-  "name": "tunSanDoc",
+  "name": "tunsan",
   "version": "1.0.0",
-  "description": "a document for the tun san API",
+  "description": "doc for the tunisie sanitaire api",
   "main": "app.js",
-  "scripts": {
-    "start": "node app.js"
-  },
-  "keywords": [
-    "Socket",
-    "IO",
-    "Simple",
-    "Sample"
-  ],
-  "author": "Amine",
-  "license": "MIT",
   "dependencies": {
-    "express": "^4.13.3",
-  }
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amine",
+  "license": "MIT"
 }
