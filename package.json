@@ -1,0 +1,20 @@
+{
+  "name": "tunSanDoc",
+  "version": "1.0.0",
+  "description": "a document for the tun san API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Socket",
+    "IO",
+    "Simple",
+    "Sample"
+  ],
+  "author": "Amine",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+  }
+}
