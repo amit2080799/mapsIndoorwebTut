@@ -1,1 +1,1 @@
-define({  "name": "tunsie-sanitaire",  "version": "0.0.0",  "description": "",  "sampleUrl": false,  "apidoc": "0.2.0",  "generator": {    "name": "apidoc",    "time": "2017-04-15T21:47:28.386Z",    "url": "http://apidocjs.com",    "version": "0.16.1"  }});
+define({  "name": "tunsie-sanitaire",  "version": "0.0.0",  "description": "",  "sampleUrl": false,  "apidoc": "0.2.0",  "generator": {    "name": "apidoc",    "time": "2017-04-16T22:09:40.848Z",    "url": "http://apidocjs.com",    "version": "0.16.1"  }});
