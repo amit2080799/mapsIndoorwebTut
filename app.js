@@ -7,4 +7,4 @@ var server = http.createServer(app).listen(PORT);
 app.use(express.static("./public"));
 
 
-console.log("Starting Socket App - http://localhost:3000");
+console.log("Starting the server - http://localhost:3000");
